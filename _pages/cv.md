@@ -5,7 +5,8 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: > 
-This is also under development. 
-Come back later, please! :)
+description: 
 ---
+
+This is also under development. 
+Come back later, please!
