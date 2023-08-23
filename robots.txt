@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lauribeiro.github.io/lauribeiro/sitemap.xml
+Sitemap: https://lauribeiro.github.io//sitemap.xml
