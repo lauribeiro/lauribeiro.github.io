@@ -52,9 +52,8 @@ table.table a {
   background-color: transparent;
 }
 
-figure,
-img {
-  max-width: 90vw;
+figure, img {
+  max-width: 60vw;
 }
 
 blockquote {
@@ -331,6 +330,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
 
   .container {
     color: var(--global-footer-text-color);
