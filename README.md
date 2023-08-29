@@ -3,7 +3,7 @@
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics. The [link] (https://jekyll-themes.com/alshedivat/al-folio).
+A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics. The [link](https://jekyll-themes.com/alshedivat/al-folio).
 
 ## License
 
